@@ -10,3 +10,6 @@ The program will click the desired location when the time comes.
 
 ## Code
 This code was written in Python.
+
+## Dependencies 
+`pip install pyautogui`
